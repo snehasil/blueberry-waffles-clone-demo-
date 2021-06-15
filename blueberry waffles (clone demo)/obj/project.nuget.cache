@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5M8Td5X4nEMFaihidDwBz7sZI3DKJQBnkYz0sGjj9bMw31fil2hMfC8lKwmmupgQy4GKVBTYobAddKJFH2/Hg==",
+  "dgSpecHash": "X4P9nFtiY63kGxO9OQvpJUz3mkwxx3lkhquW1owgvnYba8tKJMpCyQvhDskM9qipc+LXj7aMkJm+caw015Nw6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sneha\\Desktop\\CTW 2021 Repositories\\blueberry waffles (clone demo)\\blueberry waffles (clone demo)\\blueberry waffles (clone demo).csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Sneha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Chitv\\OneDrive\\Desktop\\Code The Way Repositories\\blueberry-waffles-clone-demo-\\blueberry waffles (clone demo)\\blueberry waffles (clone demo).csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

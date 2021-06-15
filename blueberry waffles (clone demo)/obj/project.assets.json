@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Sneha\\.nuget\\packages\\": {}
+    "C:\\Users\\Chitv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sneha\\Desktop\\CTW 2021 Repositories\\blueberry waffles (clone demo)\\blueberry waffles (clone demo)\\blueberry waffles (clone demo).csproj",
+      "projectUniqueName": "C:\\Users\\Chitv\\OneDrive\\Desktop\\Code The Way Repositories\\blueberry-waffles-clone-demo-\\blueberry waffles (clone demo)\\blueberry waffles (clone demo).csproj",
       "projectName": "blueberry waffles (clone demo)",
-      "projectPath": "C:\\Users\\Sneha\\Desktop\\CTW 2021 Repositories\\blueberry waffles (clone demo)\\blueberry waffles (clone demo)\\blueberry waffles (clone demo).csproj",
-      "packagesPath": "C:\\Users\\Sneha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sneha\\Desktop\\CTW 2021 Repositories\\blueberry waffles (clone demo)\\blueberry waffles (clone demo)\\obj\\",
+      "projectPath": "C:\\Users\\Chitv\\OneDrive\\Desktop\\Code The Way Repositories\\blueberry-waffles-clone-demo-\\blueberry waffles (clone demo)\\blueberry waffles (clone demo).csproj",
+      "packagesPath": "C:\\Users\\Chitv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chitv\\OneDrive\\Desktop\\Code The Way Repositories\\blueberry-waffles-clone-demo-\\blueberry waffles (clone demo)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sneha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Chitv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -53,12 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -67,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
