@@ -1,0 +1,37 @@
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).exe
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).deps.json
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).runtimeconfig.json
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).runtimeconfig.dev.json
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).dll
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).pdb
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).Views.dll
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\bin\Debug\netcoreapp3.1\blueberry waffles (clone demo).Views.pdb
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).csprojAssemblyReference.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).AssemblyInfoInputs.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).AssemblyInfo.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).csproj.CoreCompileInputs.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).RazorAssemblyInfo.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).RazorAssemblyInfo.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\staticwebassets\blueberry waffles (clone demo).StaticWebAssets.Manifest.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\staticwebassets\blueberry waffles (clone demo).StaticWebAssets.xml
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\scopedcss\bundle\blueberry waffles (clone demo).styles.css
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).TagHelpers.input.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).TagHelpers.output.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).RazorCoreGenerate.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).RazorTargetAssemblyInfo.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).RazorTargetAssemblyInfo.cs
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).Views.pdb
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).dll
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).pdb
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).genruntimeconfig.cache
+C:\Users\rohit\Desktop\Repositories\blueberry-waffles-clone-demo-\blueberry waffles (clone demo)\obj\Debug\netcoreapp3.1\blueberry waffles (clone demo).csproj.CopyComplete
